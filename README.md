@@ -32,7 +32,9 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 **Program:**
+
 Developed by: R.Sabarinath
+
 Register Number:212223100048
 ```
 module EXP2(A,B,C,D,W,X,Y,Z,F1,F2);
@@ -58,12 +60,15 @@ endmodule
 **RTL realization**
 
 **Output:**
+
 ![EX 02 DE OP](https://github.com/user-attachments/assets/82924313-e5d3-4c72-a8b6-daeba1fc8600)
 
 **RTL**
+
 ![image](https://github.com/user-attachments/assets/b786036d-50a4-4301-8ea6-a4fe8d3e4f15)
 
 **Timing Diagram**
+
 ![image](https://github.com/user-attachments/assets/84574de4-2db0-4cd7-9430-b740d5257e5d)
 
 **Result:**
